@@ -5,7 +5,10 @@
 
 ![](https://images.tute.io/tute/topic/pyqt.png)
 
-this is only a simple project just for learning QT with python using pyside
+this is only a simple project just for learning QT with python using pyside, using Qml, QTcreator or QTDesigner for UI,
+
+this example show how to create a simple login with a operational CRUD UI, loading .ui files, instead of using the command pyuic5
+for convert the .ui files into .py files.
 
 packages in this project:
   - Pyside6
