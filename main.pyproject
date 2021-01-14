@@ -1,0 +1,3 @@
+{
+    "files": ["views/productForm.ui","Models/User.py","main.py","database/connection.py","views/login.ui","views/principal.ui","views/dialog_product.ui"]
+}
